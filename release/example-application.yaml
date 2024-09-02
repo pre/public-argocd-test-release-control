@@ -3,5 +3,5 @@ acmeService:
   namespace: appsetwebhooktest-1
 
 release:
-  targetRevision: petrus-test-2
-  acmeValue: lolcat-2
+  targetRevision: petrus-test-3
+  acmeValue: lolcat-3
