@@ -1,0 +1,7 @@
+acmeService:
+  name: acme-calculator
+  namespace: appsetwebhooktest-1
+
+release:
+  targetRevision: petrus-test-1
+  acmeValue: lolcat
