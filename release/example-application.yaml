@@ -4,4 +4,4 @@ acmeService:
 
 release:
   targetRevision: petrus-test-8
-  acmeValue: test-branch-something-1
+  acmeValue: test-branch-something-2
