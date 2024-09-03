@@ -4,4 +4,4 @@ acmeService:
 
 release:
   targetRevision: petrus-test-8
-  acmeValue: lolcat-env-hello-1
+  acmeValue: lolcat-env-hello-2
