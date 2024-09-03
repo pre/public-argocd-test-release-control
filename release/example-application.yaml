@@ -4,4 +4,4 @@ acmeService:
 
 release:
   targetRevision: petrus-test-8
-  acmeValue: lolcat-dev-2
+  acmeValue: lolcat-dev-3
